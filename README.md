@@ -54,9 +54,10 @@
 ## 📫 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ravneetsingh20/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey)]( https://github.com/Ravneet-singh2000/Ravneet-Singh)  
 
 
- 
+
 ---
 
 ## 🚀 Career Goals  
