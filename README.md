@@ -1,6 +1,6 @@
 # Hi 👋, I’m Ravneet Singh  
 
-🎓 **Master’s Student in Business Management** | **BBA in Business Administration** | 💻 **Data Enthusiast** | 📊 **Aspiring Data Professional**  
+🎓 **Master’s Student in Business Management** | 💻 **Data Analyst** | 
 
 ---
 
